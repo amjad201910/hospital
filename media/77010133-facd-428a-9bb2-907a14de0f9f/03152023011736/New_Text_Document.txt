@@ -1,0 +1,47 @@
+pip install -r /path/to/requirements.txt
+
+
+
+deactivate env   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/////////////////////////////////////////
+git clone https://github.com/encode/django-rest-framework.git
+cd django-rest-framework
+
+
+pip install mkdocs
+
+
+mkdocs serve
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
